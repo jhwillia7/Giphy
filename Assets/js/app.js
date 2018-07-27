@@ -1,4 +1,4 @@
-/*Start Psuedocode
+/*Start Psuedocode version A
 For this project we will be creating an array which we will use to populate a row of buttons
 These buttons when clicked will use AJAX to dynamically create 10 returns from GIPHY based
 on the inputs associated with each button.
